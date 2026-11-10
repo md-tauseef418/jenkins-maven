@@ -7,7 +7,7 @@
 
     <groupId>com.devops</groupId>
     <artifactId>jenkins-maven-project</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <packaging>war</packaging>
 
     <name>Jenkins Maven Project</name>
@@ -19,7 +19,7 @@
     </properties>
 
     <build>
-        <finalName>jenkins-project</finalName>
+        <finalName>jenkins-project-1.1</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
